@@ -1,0 +1,53 @@
+table{
+    background-color: #FFFFCC;
+    padding:9px;
+    border:#FA8000 dashed 10px;
+}
+tr>td {
+    font-weight: 600;
+    color: black
+}
+.circle{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    font-size:23px;
+    font-family: Arial;
+    font-weight: 900;
+    color:#000;
+    line-height:50px;
+    text-align:center;
+    background:#FFBF11;
+}
+.circle1 {
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    font-size:23px;
+    font-family: Arial;
+    font-weight: 900;
+    color:#000;
+    line-height:50px;
+    text-align:center;
+    background:#E20010;
+}
+.circle2 {
+    width:50px;
+    height:50px;
+    font-size:23px;
+    font-family: Arial;
+    font-weight: 900;
+    color:#000;
+    line-height:50px;
+    text-align:center;
+    background:#FFFFCC;
+}
+strong{
+    color: red
+}
+.inline-block{
+      display: inline-block;
+}
+table {
+          display: inline-block;
+}
